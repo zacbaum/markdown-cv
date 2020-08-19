@@ -528,6 +528,6 @@ V Harish, A Baksh, T Ungi, A Lasso, **Z Baum**, G Gauvin, CJ Engel, J Rudan, G F
 
 <br>
 <br>
-*Last updated: August 2020*
+&copy; Zachary Baum | Updated: Aug. 18th, 2020
 <br>
 <br>
