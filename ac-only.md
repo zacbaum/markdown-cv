@@ -240,7 +240,7 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 ### Conference Presentations
 
 `2021`
-**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Under Review) <a href="#"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Under Review) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
 
 `2020`
 **Z Baum**, Y Hu, D Barratt. "Multimodality biomedical image registration using free point transformer networks," Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (2020). (Accepted) <a href="https://arxiv.org/abs/2008.01885"><i class="ai ai-arxiv"></i></a>
