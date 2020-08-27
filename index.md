@@ -14,7 +14,7 @@ University College London
 
 <div id="webaddress">
   <a href="https://zacbaum.github.io"> Homepage <i class="fas fa-home"></i></a> |
-  <a href="https://github.com/zacbaum"> GitHub <i class="fab fa-github"></i></a> | 
+  <a href="https://github.com/zacbaum"> GitHub <i class="fab fa-github"></i></a> |
   <a href="https://www.linkedin.com/in/zacharybaum/"> LinkedIn <i class="fab fa-linkedin"></i></a> |
   <a href="https://scholar.google.ca/citations?user=eOYKsdsAAAAJ&hl=en"> Google Scholar <i class="ai ai-google-scholar"></i></a> |
   <a href="https://www.researchgate.net/profile/Zachary_Baum"> Research Gate <i class="ai ai-researchgate"></i></a>
@@ -68,7 +68,7 @@ Admissions to the Tricolour Society through the Agnes Benidickson Tricolour Awar
 `Nov. 2018`
 **Nixon Academic Leadership Award** | *Queen’s University Athletics and Recreation*
 
-Awarded to the male and female varsity student-athletes who have exemplified achievement in academics, community service and fair play in their sport. <a href="https://gogaelsgo.com/sports/2016/11/10/NixonAward.aspx"><i class="fas fa-external-link-alt"></i></a> 
+Awarded to the male and female varsity student-athletes who have exemplified achievement in academics, community service and fair play in their sport. <a href="https://gogaelsgo.com/sports/2016/11/10/NixonAward.aspx"><i class="fas fa-external-link-alt"></i></a>
 
 `May 2017`
 **Award for Outstanding Contribution to School Life** | *School of Computing, Queen's University*
@@ -91,7 +91,7 @@ Recognized as one of six national finalists for excellence in undergraduate biom
 **Graduate Research Scholarship & Overseas Research Scholarship** | *University College London* - £175,000 <br>
 *"Machine learning for ultrasound-guided interventions"*
 
-The Graduate Research Scholarship and Overseas Research Scholarship Programs are awarded on the basis of academic excellence and research potential to attract high-quality students to University College London to undertake postgraduate research programs. 
+The Graduate Research Scholarship and Overseas Research Scholarship Programs are awarded on the basis of academic excellence and research potential to attract high-quality students to University College London to undertake postgraduate research programs.
 
 `2019-2022`
 **Postgraduate Scholarship-Doctoral** | *Natural Sciences and Engineering Research Council of Canada (NSERC)* - $63,000 CAD <br>
@@ -222,7 +222,7 @@ Developed open-source medical engineering solutions for image-guided therapy and
 **CISC 432 - Advanced Database Management Systems** - Introduction to and Development with CouchDB
 
 `Fall 2018`
-**CISC 330 - Computer-Assisted Surgery** - Spatially Tracked Ultrasound and Ultrasound-Guided Interventions 
+**CISC 330 - Computer-Assisted Surgery** - Spatially Tracked Ultrasound and Ultrasound-Guided Interventions
 
 `Fall 2018`
 **CISC 330 - Computer-Assisted Surgery** - Augmented Reality Neurosurgical Planning
@@ -380,7 +380,7 @@ Coordinated with the Editorial Board and Panel of Referees, tracks submissions t
 `Mar. 2016 - Mar. 2018`
 **Campus Tour Guide** | *Office of Undergraduate Admission and Recruitment, Queen’s University*
 
-Led prospective students and families throughout campus, giving a first impression and information on Queen’s University. 
+Led prospective students and families throughout campus, giving a first impression and information on Queen’s University.
 
 `May 2015 - Apr. 2016`
 **Information Services and Technology Student Advisory Committee Member** | *Information Technology Services (ITS), Queen’s University*
@@ -417,6 +417,8 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2020`
+Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, E Bonmati, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep-learning toolkit for medical image registration," The Journal of Open Source Software (2020) (In Preparation) <!--<a href="https://arxiv.org/"><i class="ai ai-arxiv"></i></a>--> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
+
 T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary, S Aylward, G Fichtinger. "Automatic spine ultrasound segmentation for scoliosis visualization and measurement," IEEE Transactions on Biomedical Engineering (2020). [Early Access] <a href="https://doi.org/10.1109/TBME.2020.2980540"><i class="ai ai-doi"></i></a>
 
 `2019`
@@ -465,7 +467,7 @@ A Ilina, A Lasso, M Jolley, B Wohler, A Nguyen, A Scanlan, **Z Baum**, F McGowan
 
 E Bibic, **Z Baum**, V Harish, T Ungi, A Lasso, G Fichtinger. "PLUS Model Catalog: A library of 3D-printed medical tools," 15th Annual Imaging Network of Ontario Symposium (2017). (Poster)
 
-G Underwood, T Ungi, **Z Baum**, A Lasso, G Kronreif, G Fichtinger. "Registration of preoperative images for navigated brain surgery using ultrasound-accessible skull regions," 15th Annual Imaging Network of Ontario Symposium (2017). (Oral) 
+G Underwood, T Ungi, **Z Baum**, A Lasso, G Kronreif, G Fichtinger. "Registration of preoperative images for navigated brain surgery using ultrasound-accessible skull regions," 15th Annual Imaging Network of Ontario Symposium (2017). (Oral)
 
 V Harish, E Bibic, A Lasso, M Holden, T Vaughan, **Z Baum**, T Ungi, G Fichtinger. "An application of redundant sensors for intraoperative electromagnetic tracking error monitoring," 15th Annual Imaging Network of Ontario Symposium (2017). (Oral)
 
