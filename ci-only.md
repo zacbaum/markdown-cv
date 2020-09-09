@@ -7,7 +7,7 @@ Medical Imaging PhD Candidate
 
 **Computer-Assisted Navigation, Diagnosis and Intervention Group**<br>
 *Wellcome / EPSRC Centre for Interventional and Surgical Sciences & Centre for Medical Image Computing*<br>
-Department of Medical Physics & Biomedical Engineering<br>
+Dept. of Medical Physics & Biomedical Engineering<br>
 University College London
 
 <a style="text-decoration: none" href="mailto:zachary.baum.19@ucl.ac.uk">zachary.baum.19@ucl.ac.uk</a>

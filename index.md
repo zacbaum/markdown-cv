@@ -7,7 +7,7 @@ Medical Imaging PhD Candidate
 
 **Computer-Assisted Navigation, Diagnosis and Intervention Group**<br>
 *Wellcome / EPSRC Centre for Interventional and Surgical Sciences & Centre for Medical Image Computing*<br>
-Department of Medical Physics & Biomedical Engineering<br>
+Dept. of Medical Physics & Biomedical Engineering<br>
 University College London
 
 <a style="text-decoration: none" href="mailto:zachary.baum.19@ucl.ac.uk">zachary.baum.19@ucl.ac.uk</a>
@@ -165,6 +165,11 @@ To present the workshop *"3D Slicer: Hands on introduction to medical image visu
 
 ### Research Experience
 
+`Sep. 2020 - present`
+**Research Associate** | *Surgical Discovery Centre, Dept. Veterinary Medicine, University of Cambridge*
+
+Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
+
 `Sep. 2019 - present`
 **Research Assistant** | *Computer-Aided Navigation, Diagnosis and Intervention Group, Dept. of Medical Physics and Biomedical Engineering, University College London*
 
@@ -179,7 +184,7 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 <ins>Teaching Assistance</ins>
 
-*Department of Medical Physics and Biomedical Engineering, University College London*
+*Dept. of Medical Physics and Biomedical Engineering, University College London*
 
 `Fall 2020`
 **MPHY 0030 - Programming Foundations for Medical Image Analysis**
@@ -417,7 +422,7 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2020`
-Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, E Bonmati, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep-learning toolkit for medical image registration," The Journal of Open Source Software (2020) (In Preparation) <!--<a href="https://arxiv.org/"><i class="ai ai-arxiv"></i></a>--> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
+Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, J Iglesias, D Barratt, E Bonmati, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software (2020) (In Review) <!--<a href="https://arxiv.org/"><i class="ai ai-arxiv"></i></a>--> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
 
 T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary, S Aylward, G Fichtinger. "Automatic spine ultrasound segmentation for scoliosis visualization and measurement," IEEE Transactions on Biomedical Engineering (2020). [Early Access] <a href="https://doi.org/10.1109/TBME.2020.2980540"><i class="ai ai-doi"></i></a>
 
@@ -427,7 +432,7 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 ### Conference Presentations
 
 `2021`
-**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Under Review) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (In Review) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
 
 `2020`
 **Z Baum**, Y Hu, D Barratt. "Multimodality biomedical image registration using free point transformer networks," Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (2020). (Accepted) <a href="https://arxiv.org/abs/2008.01885"><i class="ai ai-arxiv"></i></a>
