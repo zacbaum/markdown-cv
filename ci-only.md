@@ -239,6 +239,6 @@ Awarded annually to a Varsity Club male student-athlete in his 4th or 5th year w
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Sep. 9th, 2020
+&copy; Zachary Baum | Updated: Sep. 18th, 2020
 <br>
 <br>

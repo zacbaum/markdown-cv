@@ -184,6 +184,14 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 <ins>Teaching Assistance</ins>
 
+*Dept. of Computer Science, University College London*
+
+`Winter 2021`
+**COMP 0005 - Algorithms**
+
+`Fall 2020`
+**COMP 0066 - Introductory Programming**
+
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
 
 `Fall 2020`
@@ -535,6 +543,6 @@ V Harish, A Baksh, T Ungi, A Lasso, **Z Baum**, G Gauvin, CJ Engel, J Rudan, G F
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Sep. 9th, 2020
+&copy; Zachary Baum | Updated: Sep. 18th, 2020
 <br>
 <br>
