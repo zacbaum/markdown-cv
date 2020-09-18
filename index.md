@@ -52,7 +52,7 @@ University College London
 
 ### Honours & Awards
 
-`Apr. 2020`
+`Apr. 2019`
 **Ian A. Macleod Award** | *School of Computing, Queen's University*
 
 This award is granted to the graduate student who made the greatest contribution to the intellectual and social spirit of the School of Computing during the preceding academic year. <a href="https://www.cs.queensu.ca/aboutus/awards/awards.php?type=internal"><i class="fas fa-external-link-alt"></i></a>
