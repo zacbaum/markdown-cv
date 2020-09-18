@@ -62,7 +62,7 @@ This award is granted to the graduate student who made the greatest contribution
 
 Admissions to the Tricolour Society through the Agnes Benidickson Tricolour Award is the highest honour given to a Queen's student for non-academic, non-athletic activities. The award is named after Dr. Agnes Benidickson who was Chancellor of Queen's University from 1980 until 1996. With all recipients chosen by their fellow students, this award is bestowed in recognition of the valuable and distinguished service of outstanding individuals to the University. <a href="https://www.queensu.ca/alumni/students-recognized-for-distinguished-service-to-the-university"><i class="fas fa-external-link-alt"></i></a>
 
-`Dec. 2019`
+`Dec. 2018`
 **Hamlyn Winter School Best Project Award, Runner-Up** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
 
 `Nov. 2018`

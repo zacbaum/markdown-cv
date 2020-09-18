@@ -52,7 +52,7 @@ University College London
 
 ### Honours & Awards
 
-`Dec. 2019`
+`Dec. 2018`
 **Hamlyn Winter School Best Project Award, Runner-Up** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
 
 `Jan. 2017`
