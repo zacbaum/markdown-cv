@@ -53,7 +53,7 @@ University College London
 ### Honours & Awards
 
 `Oct. 2020`
-**Best Paper Award** | *Advances in Simplifying Medical Ultrasound (ASMUS) Workshop, MICCAI*
+**Best Paper Award** | *Advances in Simplifying Medical UltraSound (ASMUS) Workshop, MICCAI*
 
 For the paper: “Multimodality biomedical image registration using free point transformer networks”
 
@@ -448,7 +448,7 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 **Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (In Review) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
 
 `2020`
-**Z Baum**, Y Hu, D Barratt. "Multimodality biomedical image registration using free point transformer networks," Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (2020). (Oral - **Best Paper Award**) <a href="https://arxiv.org/abs/2008.01885"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, Y Hu, D Barratt. "Multimodality biomedical image registration using free point transformer networks," Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (2020). (Oral - **Best Paper Award**) <a href="https://arxiv.org/abs/2008.01885"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-60334-2_12"><i class="ai ai-doi"></i></a>
 
 `2019`
 **Z Baum**, S Ryan, E Rae, A Lasso, T Ungi, R Levy, G Fichtinger. "Assessment of intraoperative neurosurgical planning with the Microsoft HoloLens," 17th Annual Imaging Network of Ontario Symposium (2019). (Oral)
