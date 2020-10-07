@@ -515,6 +515,11 @@ V Harish, A Baksh, T Ungi, A Lasso, **Z Baum**, G Gauvin, C Engel, J Rudan, G Fi
 
 V Harish, A Baksh, T Ungi, A Lasso, **Z Baum**, G Gauvin, CJ Engel, J Rudan, G Fichtinger. "Measurement of electromagnetic tracking error in a navigated breast surgery setup," SPIE Medical Imaging - Image Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics, Vol. 9786, pp. 97862K (2016). (Poster) <a href="https://doi.org/10.1117/12.2217244"><i class="ai ai-doi"></i></a>
 
+### Educational Challenges
+
+`2020`
+N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, E Bonmati, T Vercauteren, M Clarkson, Y Hu. "Introduction to medical image registration with DeepReg, between old and new,"" MICCAI Educational Challenge (2020). (**First Place Overall Winner**) <a href="https://arxiv.org/abs/2009.01924"><i class="ai ai-arxiv"></i></a> <a href="https://colab.research.google.com/github/DeepRegNet/DeepReg/blob/main/docs/Intro_to_Medical_Image_Registration.ipynb"><i class="fas fa-laptop-code"></i></a>
+
 ### Theses
 
 `2019`
