@@ -256,6 +256,14 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 <ins>Supervision & Mentorship Experience</ins>
 
+Students Supervised in Research Project
+
+*Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+`Fall 2020 - Winter 2021`
+**Harry Mason**, Undergraduate Student <br>
+*"Deep Learning for COVID-19 Lung Ultrasound Image Analysis"*
+
 Students Mentored in Research Project
 
 *Laboratory for Percutaneous Surgery, School of Computing, Queen’s University*
