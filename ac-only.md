@@ -261,7 +261,7 @@ Medical Image Computing and Computer Assisted Interventions (incl. workshops)
 ### Journal Articles
 
 `2020`
-Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, J Iglesias, D Barratt, E Bonmati, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software (2020) (In Review) <!--<a href="https://arxiv.org/"><i class="ai ai-arxiv"></i></a>--> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
+Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, S Blumberg, J Iglesias, D Barratt, E Bonmati, D Alexander, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, Vol. 5 (55), 2705 (2020). <a href="https://doi.org/10.21105/joss.02705"><i class="ai ai-doi"></i></a> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
 
 T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary, S Aylward, G Fichtinger. "Automatic spine ultrasound segmentation for scoliosis visualization and measurement," IEEE Transactions on Biomedical Engineering, Vol. 67 (11), pp. 3234-3241 (2020). <a href="https://doi.org/10.1109/TBME.2020.2980540"><i class="ai ai-doi"></i></a>
 
