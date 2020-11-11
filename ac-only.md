@@ -391,6 +391,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Sep. 18th, 2020
+&copy; Zachary Baum | Updated: Nov. 11th, 2020
 <br>
 <br>
