@@ -231,6 +231,11 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 <ins>Invited Course Lectures</ins>
 
+*Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+`Fall 2020`
+**MPHY 0030 - Programming Foundations for Medical Image Analysis** - Open-Source Medical Image Visualization with 3D Slicer and Jupyter Notebooks
+
 *School of Computing, Queen’s University*
 
 `Winter 2019`
@@ -315,7 +320,10 @@ SPIE Journal of Medical Imaging
 <ins>Conference Paper / Abstract Reviews</ins>
 
 `2020 - present`
-Medical Image Computing and Computer Assisted Interventions (incl. workshops)
+International Conference on Information Processing in Computer Assisted Interventions
+
+`2020 - present`
+International Conference on Medical Image Computing and Computer Assisted Interventions (incl. workshops)
 
 ### Professional Experience
 
