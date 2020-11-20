@@ -109,11 +109,6 @@ The Queen's School of Computing Undergraduate Research Fellowship is an undergra
 
 ### Research Experience
 
-`Sep. 2020 - present`
-**Research Software Engineer** | *Surgical Discovery Centre, Dept. of Veterinary Medicine, University of Cambridge*
-
-Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
-
 `Sep. 2019 - present`
 **Research Assistant** | *Computer-Aided Navigation, Diagnosis and Intervention Group, Dept. of Medical Physics and Biomedical Engineering, University College London*
 
@@ -391,6 +386,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Nov. 11th, 2020
+&copy; Zachary Baum | Updated: Nov. 20th, 2020
 <br>
 <br>

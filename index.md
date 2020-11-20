@@ -170,11 +170,6 @@ To present the workshop *"3D Slicer: Hands on introduction to medical image visu
 
 ### Research Experience
 
-`Sep. 2020 - present`
-**Research Software Engineer** | *Surgical Discovery Centre, Dept. of Veterinary Medicine, University of Cambridge*
-
-Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
-
 `Sep. 2019 - present`
 **Research Assistant** | *Computer-Aided Navigation, Diagnosis and Intervention Group, Dept. of Medical Physics and Biomedical Engineering, University College London*
 
@@ -326,6 +321,11 @@ International Conference on Information Processing in Computer Assisted Interven
 International Conference on Medical Image Computing and Computer Assisted Interventions (incl. workshops)
 
 ### Professional Experience
+
+`Sep. 2020 - present`
+**Software Engineer** | *Veterinary Surgical Innovation Ltd.*
+
+Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
 
 `Jul. 2016 - present`
 **Sr. Medical Engineering & Software Consultant** | *Verdure Imaging Inc.*
@@ -570,8 +570,12 @@ N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A
 `2015-present`
 **Student Member** | *SPIE – The International Society for Optics and Photonics*
 
+## Languages
+
+Native or Bilingually Proficient: English, French
+
 <br>
 <br>
-&copy; Zachary Baum | Updated: Nov. 11th, 2020
+&copy; Zachary Baum | Updated: Nov. 20th, 2020
 <br>
 <br>
