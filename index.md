@@ -52,6 +52,11 @@ University College London
 
 ### Honours & Awards
 
+`Dec. 2020`
+**Directors' Special Commendation** | *Wellcome / EPSRC Centre for Interventional and Surgical Sciences*
+
+Presented at the discretion of the Centre’s Director to those within WEISS who have demonstrated exceptional efforts in research and contributions to the WEISS and wider communities.
+
 `Oct. 2020`
 **Best Paper Award** | *Advances in Simplifying Medical UltraSound (ASMUS) Workshop, MICCAI*
 
@@ -193,6 +198,9 @@ Developed open-source medical engineering solutions for image-guided therapy and
 **COMP 0066 - Introductory Programming**
 
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+`Winter 2021`
+**MPHY 0041 - Machine Learning for Medical Imaging**
 
 `Fall 2020`
 **MPHY 0030 - Programming Foundations for Medical Image Analysis**
@@ -464,6 +472,9 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 ### Conference Presentations
 
 `2021`
+
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Submitted) 
+
 **Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Accepted - Oral) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
 
 `2020`
@@ -576,6 +587,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Nov. 20th, 2020
+&copy; Zachary Baum | Updated: Dec. 15th, 2020
 <br>
 <br>

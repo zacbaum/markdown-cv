@@ -52,6 +52,11 @@ University College London
 
 ### Honours & Awards
 
+`Dec. 2020`
+**Directors' Special Commendation** | *Wellcome / EPSRC Centre for Interventional and Surgical Sciences*
+
+Presented at the discretion of the Centre’s Director to those within WEISS who have demonstrated exceptional efforts in research and contributions to the WEISS and wider communities.
+
 `Apr. 2019`
 **Ian A. Macleod Award** | *School of Computing, Queen's University*
 
@@ -248,6 +253,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Nov. 20th, 2020
+&copy; Zachary Baum | Updated: Dec. 15th, 2020
 <br>
 <br>
