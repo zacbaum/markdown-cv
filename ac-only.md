@@ -37,6 +37,7 @@ University College London
 - Thesis Title: *"Augmented reality training platform for placement of neurosurgical burr holes"*
 - Supervisor: Gabor Fichtinger
 - Notable Coursework: Bioinformatics, Pattern Recognition, Continuous Coordinate Transformations
+- Queen’s School of Computing Distinguished Master’s Thesis Award
 - Cumulative GPA: 4.30 / 4.30 (1st in class)
 
 `Sep. 2013 - May 2017`
@@ -61,6 +62,11 @@ Presented at the discretion of the Centre’s Director to those within WEISS who
 **Best Paper Award** | *Advances in Simplifying Medical UltraSound (ASMUS) Workshop, MICCAI*
 
 For the paper: “Multimodality biomedical image registration using free point transformer networks”
+
+`Apr. 2020`
+**Distinguished Master's Thesis Award** | *School of Computing, Queen's University*
+
+This award recognizes excellence in master’s-level thesis research, and is granted to the graduate student in the School of Computing who, having completed their thesis in the preceding academic year, made the most distinguished contributions to their respective field throughout their research.
 
 `Dec. 2018`
 **Hamlyn Winter School Best Project Award, Runner-Up** | *Hamlyn Centre for Surgical Robotics, Imperial College London*

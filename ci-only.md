@@ -37,6 +37,7 @@ University College London
 - Thesis Title: *"Augmented reality training platform for placement of neurosurgical burr holes"*
 - Supervisor: Gabor Fichtinger
 - Notable Coursework: Bioinformatics, Pattern Recognition, Continuous Coordinate Transformations
+- Queen’s School of Computing Distinguished Master’s Thesis Award
 - Cumulative GPA: 4.30 / 4.30 (1st in class)
 
 `Sep. 2013 - May 2017`
