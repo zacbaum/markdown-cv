@@ -479,7 +479,7 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 `2021`
 
-S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Submitted) 
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Accepted) 
 
 **Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Accepted - Oral) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
 
