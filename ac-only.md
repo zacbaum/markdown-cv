@@ -289,9 +289,9 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 `2021`
 
-S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Accepted) 
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Accepted) <a href="https://arxiv.org/abs/2102.07615"><i class="ai ai-arxiv"></i></a>
 
-**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Accepted - Oral) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Oral) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1117/12.2581865"><i class="ai ai-doi"></i></a>
 
 `2020`
 **Z Baum**, Y Hu, D Barratt. "Multimodality biomedical image registration using free point transformer networks," Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention (2020). (Oral - **Best Paper Award**) <a href="https://arxiv.org/abs/2008.01885"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-60334-2_12"><i class="ai ai-doi"></i></a>
@@ -403,6 +403,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Dec. 15th, 2020
+&copy; Zachary Baum | Updated: Feb. 16th, 2021
 <br>
 <br>
