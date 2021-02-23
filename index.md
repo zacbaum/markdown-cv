@@ -53,6 +53,11 @@ University College London
 
 ### Honours & Awards
 
+`Feb. 2021`
+**Certificate of Merit (Runner-Up)** | *SPIE Medical Imaging*
+
+For the Computer-Aided Diagnosis Live Demonstration: “Easy deep medical image registration visualization: DeepReg meets 3D Slicer”.
+
 `Dec. 2020`
 **Directors' Special Commendation** | *Wellcome / EPSRC Centre for Interventional and Surgical Sciences*
 
@@ -61,7 +66,7 @@ Presented at the discretion of the Centre’s Director to those within WEISS who
 `Oct. 2020`
 **Best Paper Award** | *Advances in Simplifying Medical UltraSound (ASMUS) Workshop, MICCAI*
 
-For the paper: “Multimodality biomedical image registration using free point transformer networks”
+For the paper: “Multimodality biomedical image registration using free point transformer networks”.
 
 `Apr. 2020`
 **Distinguished Master's Thesis Award** | *School of Computing, Queen's University*
@@ -79,7 +84,7 @@ This award is granted to the graduate student who made the greatest contribution
 Admissions to the Tricolour Society through the Agnes Benidickson Tricolour Award is the highest honour given to a Queen's student for non-academic, non-athletic activities. The award is named after Dr. Agnes Benidickson who was Chancellor of Queen's University from 1980 until 1996. With all recipients chosen by their fellow students, this award is bestowed in recognition of the valuable and distinguished service of outstanding individuals to the University. <a href="https://www.queensu.ca/alumni/students-recognized-for-distinguished-service-to-the-university"><i class="fas fa-external-link-alt"></i></a>
 
 `Dec. 2018`
-**Hamlyn Winter School Best Project Award, Runner-Up** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
+**Hamlyn Winter School Best Project Award (Runner-Up)** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
 
 `Nov. 2018`
 **Nixon Academic Leadership Award** | *Queen’s University Athletics and Recreation*
@@ -593,6 +598,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Feb. 16th, 2021
+&copy; Zachary Baum | Updated: Feb. 23rd, 2021
 <br>
 <br>

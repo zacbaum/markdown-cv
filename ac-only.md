@@ -53,6 +53,11 @@ University College London
 
 ### Honours & Awards
 
+`Feb. 2021`
+**Certificate of Merit (Runner-Up)** | *SPIE Medical Imaging*
+
+For the Computer-Aided Diagnosis Live Demonstration: “Easy deep medical image registration visualization: DeepReg meets 3D Slicer”.
+
 `Dec. 2020`
 **Directors' Special Commendation** | *Wellcome / EPSRC Centre for Interventional and Surgical Sciences*
 
@@ -69,7 +74,7 @@ For the paper: “Multimodality biomedical image registration using free point t
 This award recognizes excellence in master’s-level thesis research, and is granted to the graduate student in the School of Computing who, having completed their thesis in the preceding academic year, made the most distinguished contributions to their respective field throughout their research.
 
 `Dec. 2018`
-**Hamlyn Winter School Best Project Award, Runner-Up** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
+**Hamlyn Winter School Best Project Award (Runner-Up)** | *Hamlyn Centre for Surgical Robotics, Imperial College London*
 
 `Jan. 2017`
 **The Sunnybrook Research Prize, National Finalist** | *Sunnybrook Research Institute*
@@ -403,6 +408,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Feb. 16th, 2021
+&copy; Zachary Baum | Updated: Feb. 23rd, 2021
 <br>
 <br>
