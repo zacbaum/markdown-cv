@@ -282,6 +282,9 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 ### Journal Articles
 
+`2021`
+**Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis (In Review) (2021). <a href="#"><i class="ai ai-doi"></i></a>
+
 `2020`
 Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, S Blumberg, J Iglesias, D Barratt, E Bonmati, D Alexander, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, Vol. 5 (55), 2705 (2020). <a href="https://doi.org/10.21105/joss.02705"><i class="ai ai-doi"></i></a> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
 
@@ -294,7 +297,15 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 `2021`
 
-S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). (Accepted) <a href="https://arxiv.org/abs/2102.07615"><i class="ai ai-arxiv"></i></a>
+L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+
+A Grimwood, J Ramalhinho, **Z Baum**, N Montana-Brown, G Johnson, Y Hu, M Clarkson, S Pereria, D Barratt, E Bonmati. "Endoscopic ultrasound image synthesis using a cycle-consistent adversarial network," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+
+H Mason, L Cristoni, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. "Lung ultrasound segmentation and adaptation between COVID-19 and community acquired pneumonia," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. "Adaptable image quality assessment using meta-reinforcement learning of task amenability," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). <a href="https://arxiv.org/abs/2102.07615"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-78191-0_58"><i class="ai ai-doi"></i></a>
 
 **Z Baum**, E Bonmati, L Cristoni, A Walden, F Prados, B Kanber, D Barratt, D Hawkes, G Parker, C Wheeler-Kingshott, Y Hu. "Image quality assessment for closed-loop computer-assisted lung ultrasound," SPIE Medical Imaging - Image-Guided Procedures, Robotic Interventions, and Modeling. International Society for Optics and Photonics (2021). (Oral) <a href="https://arxiv.org/abs/2008.08840"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1117/12.2581865"><i class="ai ai-doi"></i></a>
 
@@ -408,6 +419,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Feb. 23rd, 2021
+&copy; Zachary Baum | Updated: Jul. 27th, 2021
 <br>
 <br>
