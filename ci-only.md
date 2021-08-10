@@ -93,7 +93,7 @@ Presented to a graduating undergraduate student who has, throughout their time a
 Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
 
 `Jul. 2016 - present`
-**Sr. Medical Engineering & Software Consultant** | *Verdure Imaging Inc.*
+**Sr. Medical Software and Artificial Intelligence Engineer** | *Verdure Imaging Inc.*
 
 Develops ultrasound-based diagnostic software for monitoring and assessing scoliosis. Works to implement well-designed and user-friendly software and develop documentation which is compliant with FDA and other regulatory bodies.
 
@@ -254,6 +254,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Feb. 23rd, 2021
+&copy; Zachary Baum | Updated: Aug. 10th, 2021
 <br>
 <br>

@@ -253,7 +253,7 @@ Students Mentored in Research Project
 `2020 - present`
 **Co-Chair** | *Machine Learning Interest Group, Centre for Medical Image Computing, UCL*
 
-`2020`
+`2020 - present`
 **Demonstrations Chair** | *Advances in Simplifying Medical Ultrasound (ASMUS) Workshop, MICCAI*
 
 `2018`
@@ -297,11 +297,11 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 `2021`
 
-L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <a href="https://arxiv.org/abs/2108.04114"><i class="ai ai-arxiv"></i></a>
 
 A Grimwood, J Ramalhinho, **Z Baum**, N Montana-Brown, G Johnson, Y Hu, M Clarkson, S Pereria, D Barratt, E Bonmati. "Endoscopic ultrasound image synthesis using a cycle-consistent adversarial network," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
 
-H Mason, L Cristoni, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. "Lung ultrasound segmentation and adaptation between COVID-19 and community acquired pneumonia," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+H Mason, L Cristoni, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. "Lung ultrasound segmentation and adaptation between COVID-19 and community acquired pneumonia," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <a href="https://arxiv.org/abs/2108.03138"><i class="ai ai-arxiv"></i></a>
 
 S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. "Adaptable image quality assessment using meta-reinforcement learning of task amenability," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
 
@@ -419,6 +419,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Jul. 27th, 2021
+&copy; Zachary Baum | Updated: Aug. 10th, 2021
 <br>
 <br>
