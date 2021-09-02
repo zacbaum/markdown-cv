@@ -202,13 +202,16 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 *Dept. of Computer Science, University College London*
 
-`Winter 2021`
+`Winter 2021. Winter 2022`
 **COMP 0005 - Algorithms**
 
 `Fall 2020`
 **COMP 0066 - Introductory Programming**
 
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+`Fall 2021`
+**MPHY 0043 - Artificial Intelligence for Surgery and Intervention**
 
 `Winter 2021`
 **MPHY 0041 - Machine Learning for Medical Imaging**
@@ -489,11 +492,11 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <a href="https://arxiv.org/abs/2108.04114"><i class="ai ai-arxiv"></i></a>
 
-A Grimwood, J Ramalhinho, **Z Baum**, N Montana-Brown, G Johnson, Y Hu, M Clarkson, S Pereria, D Barratt, E Bonmati. "Endoscopic ultrasound image synthesis using a cycle-consistent adversarial network," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+A Grimwood, J Ramalhinho, **Z Baum**, N Montana Brown, G Johnson, Y Hu, M Clarkson, S Pereria, D Barratt, E Bonmati. "Endoscopic ultrasound image synthesis using a cycle-consistent adversarial network," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted)
 
 H Mason, L Cristoni, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. "Lung ultrasound segmentation and adaptation between COVID-19 and community acquired pneumonia," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <a href="https://arxiv.org/abs/2108.03138"><i class="ai ai-arxiv"></i></a>
 
-S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. "Adaptable image quality assessment using meta-reinforcement learning of task amenability," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <!--<a href="#"><i class="ai ai-arxiv"></i></a>-->
+S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. "Adaptable image quality assessment using meta-reinforcement learning of task amenability," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Accepted) <a href="https://arxiv.org/abs/2108.04359"><i class="ai ai-arxiv"></i></a>
 
 S Saeed, Y Fu, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, D Barratt, Y Hu. "Learning image quality assessment by reinforcing task amenable data selection," 27th International Conference on Information Processing in Medical Imaging (2021). <a href="https://arxiv.org/abs/2102.07615"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-78191-0_58"><i class="ai ai-doi"></i></a>
 
@@ -581,6 +584,11 @@ N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A
 
 ### Invited Presentations
 
+`2021`
+**Z Baum**, N Montana Brown. "DeepReg: Simple Medical Image Registration with Deep Learning," WEISS Away-Day, University College London (2021).
+
+**Z Baum**. "Deep learning for medical image segmentation and registration," UCL Medical Image Computing Summer School (MedICSS), University College London (2021).
+
 `2020`
 **Z Baum**. "Deep learning for medical image segmentation and registration," UCL Medical Image Computing Summer School (MedICSS), University College London (2020).
 
@@ -593,6 +601,9 @@ N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A
 **Z Baum**. "Design, development, and evaluation of a real-time tracked augmented reality display system for surgical navigation," Sunnybrook Research Prize, Sunnybrook Research Institute (2016).
 
 ## Memberships
+
+`2019-present`
+**Student Member** | *MICCAI – The Medical Image Computing and Computer Assisted Intervention Society*
 
 `2016-present`
 **Student Member** | *IEEE EMBS – The IEEE Engineering in Medicine and Biology Society*
@@ -609,6 +620,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Aug. 10th, 2021
+&copy; Zachary Baum | Updated: Sep. 2nd, 2021
 <br>
 <br>
