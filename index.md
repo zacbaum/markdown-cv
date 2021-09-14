@@ -476,7 +476,7 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2021`
-**Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis (In Review) (2021). <a href="#"><i class="ai ai-doi"></i></a>
+**Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis (2021). (In Press) <a href="http://arxiv.org/abs/2109.05023"><i class="ai ai-arxiv"></i></a>
 
 `2020`
 Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, S Blumberg, J Iglesias, D Barratt, E Bonmati, D Alexander, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, Vol. 5 (55), 2705 (2020). <a href="https://doi.org/10.21105/joss.02705"><i class="ai ai-doi"></i></a> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
@@ -620,6 +620,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Sep. 2nd, 2021
+&copy; Zachary Baum | Updated: Sep. 14th, 2021
 <br>
 <br>
