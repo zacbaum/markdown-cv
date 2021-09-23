@@ -210,14 +210,14 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
 
-`Fall 2021`
-**MPHY 0043 - Artificial Intelligence for Surgery and Intervention**
+`Fall 2020`
+**MPHY 0030 - Programming Foundations for Medical Image Analysis**
 
 `Winter 2021`
 **MPHY 0041 - Machine Learning for Medical Imaging**
 
-`Fall 2020`
-**MPHY 0030 - Programming Foundations for Medical Image Analysis**
+`Fall 2021`
+**MPHY 0043 - Artificial Intelligence for Surgery and Intervention**
 
 *Smith School of Business, Queen's University*
 
@@ -226,20 +226,20 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 *School of Computing, Queen’s University*
 
-`Winter 2018, 2019`
-**CISC 472 - Medical Informatics (Head TA)**
+`Fall 2015, Winter 2017`
+**CISC P81 - Computers: Applications and Implications**
 
 `Winter 2019`
 **CISC 121 - Introduction to Computing Science I (Head TA)**
 
+`Fall 2016`
+**CISC 365 - Algorithms (Head TA)**
+
 `Fall 2018`
 **CISC 432 - Advanced Data Management Systems (Head TA)**
 
-`Fall 2015, Winter 2017`
-**CISC P81 - Computers: Applications and Implications**
-
-`Fall 2016`
-**CISC 365 - Algorithms (Head TA)**
+`Winter 2018, 2019`
+**CISC 472 - Medical Informatics (Head TA)**
 
 *Faculty of Engineering and Applied Science, Queen’s University*
 
@@ -347,7 +347,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 `Sep. 2020 - present`
 **Software Engineer** | *Veterinary Surgical Innovation Ltd.*
 
-Develops open-source medical engineering solutions for surgical navigation, disease diagnosis, and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
+Develops open-source medical engineering solutions for surgical navigation and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
 
 `Jul. 2016 - present`
 **Sr. Medical Software and Artificial Intelligence Engineer** | *Verdure Imaging Inc.*
@@ -476,7 +476,7 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2021`
-**Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis (2021). (In Press) <a href="http://arxiv.org/abs/2109.05023"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis (2021).<a href="http://arxiv.org/abs/2109.05023"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1016/j.media.2021.102231"><i class="ai ai-doi"></i></a>
 
 `2020`
 Y Fu, N Montana Brown, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A Grimwood, Z Min, S Blumberg, J Iglesias, D Barratt, E Bonmati, D Alexander, M Clarkson, T Vercauteren, Y Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, Vol. 5 (55), 2705 (2020). <a href="https://doi.org/10.21105/joss.02705"><i class="ai ai-doi"></i></a> <a href="https://github.com/DeepRegNet/DeepReg"><i class="fab fa-github"></i></a> <a href="http://deepreg.net/"><i class="fas fa-home"></i></a>
@@ -613,6 +613,40 @@ N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A
 
 `2015-present`
 **Student Member** | *SPIE – The International Society for Optics and Photonics*
+
+## Athletic Awards
+
+`Nov. 2017, Mar. 2018`
+**Helly Hansen Sailor of the Month** | *Sail Canada / Voile Canada*
+
+`Mar. 2018`
+**Jack Jarvis Trophy** | *Queen’s University Athletics and Recreation*
+
+Awarded annually to a Varsity Club male student-athlete in his 4th or 5th year who best displays qualities of scholastic achievement, competitiveness, leadership, sportsmanship, dedication and exceptional contributions to his team.
+
+`Mar. 2018`
+**Queen’s Sailing Team Most Valuable Player** | *Queen’s University Athletics and Recreation*
+
+`Nov. 2017`
+**Landon Gardner Volunteer of the Year Award** | *Canadian Intercollegiate Sailing Association (CICSA)*
+
+`Nov. 2017`
+**Male Skipper of the Year Award** | *Canadian Intercollegiate Sailing Association (CICSA)*
+
+`Nov. 2017`
+**Nathan Cohen Memorial Trophy** | *Queen’s Sailing Team*
+
+`2013, 2014, 2016, 2017`
+**1st Place - Team Racing National Championship** | *Canadian Intercollegiate Sailing Association (CICSA)*
+
+`2014, 2015, 2016, 2017`
+**1st Place – Canadian American Cup** | *North American Intercollegiate Sailing Association (ICSA)*
+
+`Week of 24 Oct. 2016, 11 Sep. 2017`
+**Varsity Clubs Male Athlete of the Week** | *Queen’s University Athletics and Recreation*
+
+`Jul. 2017`
+**1st Place - Olsen 30 North American Championship** | *CORK / Sail Kingston*
 
 ## Languages
 
