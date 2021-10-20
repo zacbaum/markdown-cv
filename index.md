@@ -292,9 +292,21 @@ Students Supervised in Research Project
 
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
 
-`Fall 2020 - Winter 2021`
+`Fall 2021 - Spring 2022`
+**Ralia Boutaleb**, Undergraduate Student <br>
+*"Deep learning for COVID-19 lung ultrasound image analysis"*
+
+`Fall 2021 - Spring 2022`
+**Mihaela Croitor**, Undergraduate Student <br>
+*"Deep learning for COVID-19 lung ultrasound image analysis"*
+
+`Fall 2021 - Spring 2022`
+**Pierre Raillard**, Undergraduate Student <br>
+*"Deep learning for COVID-19 lung ultrasound image analysis"*
+
+`Fall 2020 - Spring 2021`
 **Harry Mason**, Undergraduate Student <br>
-*"Deep Learning for COVID-19 Lung Ultrasound Image Analysis"*
+*"Lung ultrasound segmentation and adaptation between COVID-19 and community acquired pneumonia"*
 
 Students Mentored in Research Project
 
@@ -664,6 +676,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Sep. 28th, 2021
+&copy; Zachary Baum | Updated: Oct. 20th, 2021
 <br>
 <br>
