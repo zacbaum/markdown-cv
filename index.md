@@ -212,7 +212,7 @@ Developed open-source medical engineering solutions for image-guided therapy and
 
 *Dept. of Computer Science, University College London*
 
-`Winter 2021. Winter 2022`
+`Winter 2021`
 **COMP 0005 - Algorithms**
 
 `Fall 2020`
@@ -293,6 +293,10 @@ Students Supervised in Research Project
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
 
 `Fall 2021 - Spring 2022`
+**Xiang Li**, Master of Science Student <br>
+*"Deep learning for COVID-19 lung ultrasound image analysis"*
+
+`Fall 2021 - Spring 2022`
 **Ralia Boutaleb**, Undergraduate Student <br>
 *"Deep learning for COVID-19 lung ultrasound image analysis"*
 
@@ -366,6 +370,11 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 ### Professional Experience
 
+`Dec. 2021 - present`
+**AI Engineer** | *Atheneum Partners Ltd.*
+
+Leads the development and deployment of machine learning systems to streamline internal processes and operations globally.
+
 `Sep. 2020 - present`
 **Software Engineer** | *Veterinary Surgical Innovation Ltd.*
 
@@ -386,7 +395,7 @@ Developed software and macros to automate the reporting and collection of variou
 `Oct. 2018 - present`
 **Member, Board of Directors** | *Sail Canada / Voile Canada*
 
-Provides the governance and strategic direction for the Association. Brings an array of skills, expertise, and sailing experience to fulfill my responsibilities and duties on the board with respect to setting the vision and mission of the Association. Provides input and monitors performance the Association by overseeing core financial information and updating policies to reflect international best practices in sailing. Additionally, serves as a member of the Governance and Finance Committees, and as Chair of the Annual General Meeting Planning Sub-Committee.
+Provides the governance and strategic direction for the Association. Brings an array of skills, expertise, and sailing experience to fulfill my responsibilities and duties on the board with respect to setting the vision and mission of the Association. Provides input and monitors performance the Association by overseeing core financial information and updating policies to reflect international best practices in sailing. Additionally, serves as a member of the IDE, Governance, and Finance Committees, and as Chair of the Annual General Meeting Planning Sub-Committee.
 
 `Sep. 2019 - Aug. 2020`
 **Student Representative, Board of Trustees Finance Sub-Committee** | *Students’ Union UCL, University College London*
@@ -496,6 +505,9 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ## Publications
 
 ### Journal Articles
+
+`2022`
+S Saeed, W Yan, Y Fu, F Giganti, Q Yang, **Z Baum**, M Rusu, R Fan, G Sonn, M Emberton, D Barratt, Y Hu. "Image quality assessment by overlapping task-specific and task-agnostic measures: application to prostate multiparametric MR images for cancer segmentation," Machine Learning for Biomedical Imaging - Special Issue: Information Processing in Medical Imaging 2021, Vol. 71 (2022).<a href="https://arxiv.org/abs/2202.09798v1"><i class="ai ai-arxiv"></i></a> <a href="https://www.melba-journal.org/papers/2022:004.html"><i class="ai ai-doi"></i></a> <a href="https://github.com/s-sd/task-amenability/tree/v1"><i class="fab fa-github"></i></a>
 
 `2021`
 **Z Baum**, Y Hu, D Barratt. "Real-time multimodal image registration with partial intraoperative point-set data," Medical Image Analysis, Vol. 74 (2021).<a href="http://arxiv.org/abs/2109.05023"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1016/j.media.2021.102231"><i class="ai ai-doi"></i></a>
@@ -676,6 +688,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Oct. 20th, 2021
+&copy; Zachary Baum | Updated: Feb 22nd, 2022
 <br>
 <br>
