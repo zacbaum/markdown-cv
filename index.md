@@ -53,6 +53,9 @@ University College London
 
 ### Honours & Awards
 
+`Aug. 2022`
+**Bronze Distinguished Reviewer** | *IEEE Transactions on Medical Imaging*
+
 `Sep. 2021`
 **Best Demonstration Award** | *Advances in Simplifying Medical UltraSound (ASMUS) Workshop, MICCAI*
 
@@ -226,7 +229,7 @@ Developed open-source medical engineering solutions for image-guided therapy and
 `Winter 2021`
 **MPHY 0041 - Machine Learning for Medical Imaging**
 
-`Fall 2021`
+`Fall 2021, Fall 2022`
 **MPHY 0043 - Artificial Intelligence for Surgery and Intervention**
 
 *Smith School of Business, Queen's University*
@@ -507,6 +510,8 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2022`
+S Saeed, Y Fu, V Stavrinides, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. “Image quality assessment for machine learning tasks using meta-reinforcement learning,” Medical Image Analysis, Vol. 78 (2022).<a href="https://doi.org/10.1016/j.media.2022.102427"><i class="ai ai-doi"></i></a>
+
 S Saeed, W Yan, Y Fu, F Giganti, Q Yang, **Z Baum**, M Rusu, R Fan, G Sonn, M Emberton, D Barratt, Y Hu. "Image quality assessment by overlapping task-specific and task-agnostic measures: application to prostate multiparametric MR images for cancer segmentation," Machine Learning for Biomedical Imaging - Special Issue: Information Processing in Medical Imaging 2021, Vol. 71 (2022).<a href="https://arxiv.org/abs/2202.09798v1"><i class="ai ai-arxiv"></i></a> <a href="https://www.melba-journal.org/papers/2022:004.html"><i class="ai ai-doi"></i></a> <a href="https://github.com/s-sd/task-amenability/tree/v1"><i class="fab fa-github"></i></a>
 
 `2021`
@@ -522,8 +527,14 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 ### Conference Presentations
 
-`2021`
+`2022`
+**Z Baum**, T Ungi, C Schlenger, Y Hu, D Barratt. “Learning generalized non-rigid multimodal biomedical image registration from generic point set data,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10994"><i class="ai ai-arxiv"></i></a>
 
+**Z Baum**, Y Hu, D Barratt. “Meta-registration: learning test-time optimization for single-pair image registration,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10996"><i class="ai ai-arxiv"></i></a>
+
+P Railliard, L Cristoni, A Walden, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. “Rapid lung ultrasound COVID-19 severity scoring with resource-efficient deep feature extraction,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10998"><i class="ai ai-arxiv"></i></a>
+
+`2021`
 L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Oral) <a href="https://arxiv.org/abs/2108.04114"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-87583-1_3"><i class="ai ai-doi"></i></a>
 
 A Grimwood, J Ramalhinho, **Z Baum**, N Montana Brown, G Johnson, Y Hu, M Clarkson, S Pereria, D Barratt, E Bonmati. "Endoscopic ultrasound image synthesis using a cycle-consistent adversarial network," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Oral) <a href="https://doi.org/10.1007/978-3-030-87583-1_17"><i class="ai ai-doi"></i></a>
@@ -688,6 +699,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Feb 22nd, 2022
+&copy; Zachary Baum | Updated: Aug 28th, 2022
 <br>
 <br>
