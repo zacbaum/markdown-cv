@@ -373,20 +373,20 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 ### Professional Experience
 
-`Dec. 2021 - present`
-**AI Engineer** | *Atheneum Partners Ltd.*
-
-Leads the development and deployment of machine learning systems to streamline internal processes and operations globally.
-
 `Sep. 2020 - present`
 **Software Engineer** | *Veterinary Surgical Innovation Ltd.*
 
 Develops open-source medical engineering solutions for surgical navigation and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
 
 `Jul. 2016 - present`
-**Sr. Medical Software and Artificial Intelligence Engineer** | *Verdure Imaging Inc.*
+**Sr. AI Scientist and Software Engineer** | *Verdure Imaging Inc.*
 
 Develops ultrasound-based diagnostic software for monitoring and assessing scoliosis. Works to implement well-designed and user-friendly software and develop documentation which is compliant with FDA and other regulatory bodies.
+
+`Dec. 2021 - Dec. 2022`
+**AI Engineer** | *Atheneum Partners Ltd.*
+
+Leads the development and deployment of machine learning systems to streamline internal processes and operations globally.
 
 `Jan. 2019 - May 2019`
 **Automation Developer** | *Office of Undergraduate Admission and Recruitment, Queen’s University*
@@ -398,7 +398,7 @@ Developed software and macros to automate the reporting and collection of variou
 `Oct. 2018 - present`
 **Member, Board of Directors** | *Sail Canada / Voile Canada*
 
-Provides the governance and strategic direction for the Association. Brings an array of skills, expertise, and sailing experience to fulfill my responsibilities and duties on the board with respect to setting the vision and mission of the Association. Provides input and monitors performance the Association by overseeing core financial information and updating policies to reflect international best practices in sailing. Additionally, serves as a member of the IDE, Governance, and Finance Committees, and as Chair of the Annual General Meeting Planning Sub-Committee.
+Provides the governance and strategic direction for the Association. Brings an array of skills, expertise, and sailing experience to fulfill my responsibilities and duties on the board with respect to setting the vision and mission of the Association. Provides input and monitors performance the Association by overseeing core financial information and updating policies to reflect international best practices in sailing. Additionally, serves as Secretary, as Chair of the Governance Committee, and as a member of the IDE and Finance Committees.
 
 `Sep. 2019 - Aug. 2020`
 **Student Representative, Board of Trustees Finance Sub-Committee** | *Students’ Union UCL, University College London*
@@ -510,6 +510,8 @@ Engages with students at various recruitment events, such as Fall Preview, March
 ### Journal Articles
 
 `2022`
+**Z Baum**, Y Hu, D Barratt. "Meta-Learning Initializations for Interactive Medical Image Registration," IEEE Transactions on Medical Imaging (2022).<a href="https://arxiv.org/abs/2210.15371"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1109/TMI.2022.3218147"><i class="ai ai-doi"></i></a>
+
 S Saeed, Y Fu, V Stavrinides, **Z Baum**, Q Yang, M Rusu, R Fan, G Sonn, A Noble, D Barratt, Y Hu. “Image quality assessment for machine learning tasks using meta-reinforcement learning,” Medical Image Analysis, Vol. 78 (2022).<a href="https://doi.org/10.1016/j.media.2022.102427"><i class="ai ai-doi"></i></a>
 
 S Saeed, W Yan, Y Fu, F Giganti, Q Yang, **Z Baum**, M Rusu, R Fan, G Sonn, M Emberton, D Barratt, Y Hu. "Image quality assessment by overlapping task-specific and task-agnostic measures: application to prostate multiparametric MR images for cancer segmentation," Machine Learning for Biomedical Imaging - Special Issue: Information Processing in Medical Imaging 2021, Vol. 71 (2022).<a href="https://arxiv.org/abs/2202.09798v1"><i class="ai ai-arxiv"></i></a> <a href="https://www.melba-journal.org/papers/2022:004.html"><i class="ai ai-doi"></i></a> <a href="https://github.com/s-sd/task-amenability/tree/v1"><i class="fab fa-github"></i></a>
@@ -528,11 +530,11 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 ### Conference Presentations
 
 `2022`
-**Z Baum**, T Ungi, C Schlenger, Y Hu, D Barratt. “Learning generalized non-rigid multimodal biomedical image registration from generic point set data,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10994"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, T Ungi, C Schlenger, Y Hu, D Barratt. “Learning generalized non-rigid multimodal biomedical image registration from generic point set data,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10994"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_14"><i class="ai ai-doi"></i></a>
 
-**Z Baum**, Y Hu, D Barratt. “Meta-registration: learning test-time optimization for single-pair image registration,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10996"><i class="ai ai-arxiv"></i></a>
+**Z Baum**, Y Hu, D Barratt. “Meta-registration: learning test-time optimization for single-pair image registration,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10996"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_16"><i class="ai ai-doi"></i></a>
 
-P Railliard, L Cristoni, A Walden, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. “Rapid lung ultrasound COVID-19 severity scoring with resource-efficient deep feature extraction,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). (Accepted) <a href="https://arxiv.org/abs/2207.10998"><i class="ai ai-arxiv"></i></a>
+P Railliard, L Cristoni, A Walden, R Lazzari, T Pulimood, L Grandjean, C Gandini Wheeler-Kingshott, Y Hu, **Z Baum**. “Rapid lung ultrasound COVID-19 severity scoring with resource-efficient deep feature extraction,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10998"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_1"><i class="ai ai-doi"></i></a>
 
 `2021`
 L Chalcroft, J Qu, S Martin, I Gayo, G Minore, I Singh, S Saeed, Q Yang, **Z Baum**, A Altmann, Y Hu. "Development and evaluation of intraoperative ultrasound segmentation with negative image frames and multiple observer labels," 2nd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 24th International Conference on Medical Image Computing and Computer Assisted Intervention (2021). (Oral) <a href="https://arxiv.org/abs/2108.04114"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-030-87583-1_3"><i class="ai ai-doi"></i></a>
@@ -699,6 +701,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: Aug 28th, 2022
+&copy; Zachary Baum | Updated: November 2022
 <br>
 <br>
