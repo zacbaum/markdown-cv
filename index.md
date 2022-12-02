@@ -29,7 +29,7 @@ University College London
 
 `Sep. 2019 - present`
 **PhD** | Medical Imaging | *University College London, London, United Kingdom*
-- Thesis Topic: *"Machine learning for ultrasound-guided interventions"*
+- Thesis Topic: *"Medical image registration using deep neural networks"*
 - Supervisors: Dean C. Barratt, Yipeng Hu
 
 `Sep. 2017 - May 2019`
@@ -262,6 +262,12 @@ Developed open-source medical engineering solutions for image-guided therapy and
 <ins>Invited Course Lectures</ins>
 
 *Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+`Fall 2022`
+**MPHY 0030 - Programming Foundations for Medical Image Analysis** - Open-Source Medical Image Visualization with 3D Slicer and Jupyter Notebooks
+
+`Fall 2021`
+**MPHY 0030 - Programming Foundations for Medical Image Analysis** - Open-Source Medical Image Visualization with 3D Slicer and Jupyter Notebooks
 
 `Fall 2020`
 **MPHY 0030 - Programming Foundations for Medical Image Analysis** - Open-Source Medical Image Visualization with 3D Slicer and Jupyter Notebooks
@@ -530,6 +536,8 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 ### Conference Presentations
 
 `2022`
+C Zindl, **Z Baum**, M Allen. “Implantation of press-fit acetabular cups for canine total hip replacement: comparison of a navigated to the free-hand technique,” 1st European Congress of Biomedical and Veterinary Engineering (2022).
+
 **Z Baum**, T Ungi, C Schlenger, Y Hu, D Barratt. “Learning generalized non-rigid multimodal biomedical image registration from generic point set data,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10994"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_14"><i class="ai ai-doi"></i></a>
 
 **Z Baum**, Y Hu, D Barratt. “Meta-registration: learning test-time optimization for single-pair image registration,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10996"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_16"><i class="ai ai-doi"></i></a>
@@ -701,6 +709,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: November 2022
+&copy; Zachary Baum | Updated: December 2022
 <br>
 <br>
