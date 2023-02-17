@@ -513,6 +513,11 @@ Engages with students at various recruitment events, such as Fall Preview, March
 
 ## Publications
 
+### Books
+
+`2022`
+S Aylward, A Noble, Y Hu, SL Lee, **Z Baum**, Z Min (Eds.). "Simplifying Medical Ultrasound: Third International Workshop, ASMUS 2022 – Held in Conjunction with MICCAI 2022," Lecture Notes in Computer Science Volume 13565: 194 pp, Springer. <a href="https://doi.org/10.1007/978-3-031-16902-1"><i class="ai ai-doi"></i></a>
+
 ### Journal Articles
 
 `2022`
@@ -535,8 +540,11 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 ### Conference Presentations
 
+`2023`
+Z Min, **Z Baum**, S Saeed, M Emberton, D Barratt, Z Taylor, Y Hu. “Non-rigid medical image registration using physics-informed neural networks,” 28th International Conference on Information Processing in Medical Imaging.
+
 `2022`
-C Zindl, **Z Baum**, M Allen. “Implantation of press-fit acetabular cups for canine total hip replacement: comparison of a navigated to the free-hand technique,” 1st European Congress of Biomedical and Veterinary Engineering (2022).
+C Zindl, **Z Baum**, M Allen. “Implantation of press-fit acetabular cups for canine total hip replacement: comparison of a navigated to the free-hand technique,” 1st European Congress of Biomedical and Veterinary Engineering.
 
 **Z Baum**, T Ungi, C Schlenger, Y Hu, D Barratt. “Learning generalized non-rigid multimodal biomedical image registration from generic point set data,” 3rd Advances in Simplifying Medical UltraSound (ASMUS) Workshop - 25th International Conference on Medical Image Computing and Computer Assisted Intervention (2022). <a href="https://arxiv.org/abs/2207.10994"><i class="ai ai-arxiv"></i></a> <a href="https://doi.org/10.1007/978-3-031-16902-1_14"><i class="ai ai-doi"></i></a>
 
@@ -709,6 +717,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: December 2022
+&copy; Zachary Baum | Updated: February 2023
 <br>
 <br>
