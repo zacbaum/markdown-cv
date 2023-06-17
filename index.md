@@ -1,16 +1,13 @@
 ---
 layout: cv
-title: Zachary M C Baum's CV
+title: Zachary M C Baum
 ---
-# Zachary M C Baum
-Medical Imaging PhD Candidate
+# Dr. Zachary M C Baum, PhD
+Senior Research Scientist
 
-**Computer-Assisted Navigation, Diagnosis and Intervention Group**<br>
-*Wellcome / EPSRC Centre for Interventional and Surgical Sciences & Centre for Medical Image Computing*<br>
-Dept. of Medical Physics & Biomedical Engineering<br>
-University College London
+**Odin Vision**
 
-<a style="text-decoration: none" href="mailto:zachary.baum.19@ucl.ac.uk">zachary.baum.19@ucl.ac.uk</a>
+<a style="text-decoration: none" href="mailto:zac_baum@hotmail.com">zac_baum@hotmail.com</a>
 
 <div id="webaddress">
   <a href="https://zacbaum.github.io"> Homepage <i class="fas fa-home"></i></a> |
@@ -19,18 +16,19 @@ University College London
   <a href="https://scholar.google.ca/citations?user=eOYKsdsAAAAJ&hl=en"> Google Scholar <i class="ai ai-google-scholar"></i></a> |
   <a href="https://www.researchgate.net/profile/Zachary_Baum"> Research Gate <i class="ai ai-researchgate"></i></a>
   <br><br>
+  <a href="#experience"> Experience <i class="fas fa-briefcase"></i></a> |
   <a href="#education"> Education <i class="fas fa-university"></i></a> |
   <a href="#awards"> Awards <i class="fas fa-award"></i></a> |
-  <a href="#experience"> Experience <i class="fas fa-briefcase"></i></a> |
   <a href="#publications"> Publications <i class="fas fa-scroll"></i></a>
 </div>
 
 ## Education
 
-`Sep. 2019 - present`
+`Sep. 2019 - June 2023`
 **PhD** | Medical Imaging | *University College London, London, United Kingdom*
-- Thesis Topic: *"Medical image registration using deep neural networks"*
-- Supervisors: Dean C. Barratt, Yipeng Hu
+- Thesis Title: *"Medical image registration using deep neural networks"*
+- Primary Supervisor: Dean C. Barratt
+- Secondary Supervisor: Yipeng Hu
 
 `Sep. 2017 - May 2019`
 **MSc** | Computing | *Queen's University, Kingston, ON, Canada*
@@ -197,6 +195,33 @@ To present the workshop *"3D Slicer: Hands on introduction to medical image visu
 
 ## Experience
 
+### Professional Experience
+
+`Apr. 2023 - present`
+**Sr. Research Scientist** | *Odin Vision*
+
+Designs and develops artificial intelligence-based models and methodologies for real-time disease detection and diagnostic-support in endoscopic interventions.
+
+`Jul. 2016 - present`
+**Sr. AI Scientist and Software Engineer** | *Verdure Imaging Inc.*
+
+Develops ultrasound-based diagnostic software for monitoring and assessing scoliosis. Works to implement well-designed and user-friendly software and develop documentation which is compliant with FDA and other regulatory bodies.
+
+`Sep. 2020 - Jan 2023`
+**Software Engineer** | *Veterinary Surgical Innovation Ltd.*
+
+Develops open-source medical engineering solutions for surgical navigation and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
+
+`Dec. 2021 - Dec. 2022`
+**AI Engineer** | *Atheneum Partners Ltd.*
+
+Leads the development and deployment of machine learning systems to streamline internal processes and operations globally.
+
+`Jan. 2019 - May 2019`
+**Automation Developer** | *Office of Undergraduate Admission and Recruitment, Queen’s University*
+
+Developed software and macros to automate the reporting and collection of various test scores and other application-specific information for Admission Coordinators to simplify daily workflows and remove the need for manual searches through internal datastores by any staff members.
+
 ### Research Experience
 
 `Sep. 2019 - present`
@@ -230,7 +255,7 @@ Developed open-source medical engineering solutions for image-guided therapy and
 **MPHY 0041 - Machine Learning for Medical Imaging**
 
 `Fall 2021, Fall 2022`
-**MPHY 0043 - Artificial Intelligence for Surgery and Intervention**
+**MPHY 0043 - Artificial Intelligence for Surgery and Intervention (Head TA)**
 
 *Smith School of Business, Queen's University*
 
@@ -349,10 +374,10 @@ Students Mentored in Research Project
 
 <ins>Conference, Workshop & Seminar Series Organization</ins>
 
-`2020 - present`
+`2020 - 2023`
 **Co-Chair** | *Machine Learning Interest Group, Centre for Medical Image Computing, UCL*
 
-`2020 - present`
+`2020 - 2022`
 **Demonstrations Chair** | *Advances in Simplifying Medical Ultrasound (ASMUS) Workshop, MICCAI*
 
 `2018`
@@ -376,28 +401,6 @@ International Conference on Information Processing in Computer Assisted Interven
 
 `2020 - present`
 International Conference on Medical Image Computing and Computer Assisted Interventions (incl. workshops)
-
-### Professional Experience
-
-`Sep. 2020 - present`
-**Software Engineer** | *Veterinary Surgical Innovation Ltd.*
-
-Develops open-source medical engineering solutions for surgical navigation and medical interventions. Currently develops surgical navigation tools and software for real-time guidance and navigation of canine hip replacement to provide critical information, models and methodologies for decision-support in image-guided interventions.
-
-`Jul. 2016 - present`
-**Sr. AI Scientist and Software Engineer** | *Verdure Imaging Inc.*
-
-Develops ultrasound-based diagnostic software for monitoring and assessing scoliosis. Works to implement well-designed and user-friendly software and develop documentation which is compliant with FDA and other regulatory bodies.
-
-`Dec. 2021 - Dec. 2022`
-**AI Engineer** | *Atheneum Partners Ltd.*
-
-Leads the development and deployment of machine learning systems to streamline internal processes and operations globally.
-
-`Jan. 2019 - May 2019`
-**Automation Developer** | *Office of Undergraduate Admission and Recruitment, Queen’s University*
-
-Developed software and macros to automate the reporting and collection of various test scores and other application-specific information for Admission Coordinators to simplify daily workflows and remove the need for manual searches through internal datastores by any staff members.
 
 ### Community Involvement
 
@@ -637,6 +640,9 @@ N Montana Brown, Y Fu, S Saeed, A Casamitjana, **Z Baum**, R Delaunay, Q Yang, A
 
 ### Theses
 
+`2023`
+**Z Baum**. "Medical image registration using deep neural networks," Doctoral thesis, University College London (2023). <a href="#"><i class="fas fa-book"></i></a>
+
 `2019`
 **Z Baum**. "Augmented reality training platform for placement of neurosurgical burr holes," Master’s thesis, Queen’s University (2019). <a href="http://hdl.handle.net/1974/26123"><i class="fas fa-book"></i></a>
 
@@ -717,6 +723,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: February 2023
+&copy; Zachary Baum | Updated: June 2023
 <br>
 <br>
