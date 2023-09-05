@@ -51,6 +51,11 @@ Senior Research Scientist
 
 ### Honours & Awards
 
+`Sep. 2023`
+**Outstanding Reviewer Award** | *The International Conference on Image Processing in Computer-Assisted Intervention*
+
+Selected as one of six (from 210 reviewers) in recognition of outstanding quality of constructive reviewing for papers submitted to the IPCAI 2023 Conference.
+
 `Aug. 2022`
 **Bronze Distinguished Reviewer** | *IEEE Transactions on Medical Imaging*
 
@@ -723,6 +728,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: June 2023
+&copy; Zachary Baum | Updated: September 2023
 <br>
 <br>
