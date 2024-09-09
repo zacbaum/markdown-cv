@@ -7,8 +7,6 @@ Senior Research Scientist
 
 **Odin Vision**
 
-<a style="text-decoration: none" href="mailto:zac_baum@hotmail.com">zac_baum@hotmail.com</a>
-
 <div id="webaddress">
   <a href="https://zacbaum.github.io"> Homepage <i class="fas fa-home"></i></a> |
   <a href="https://github.com/zacbaum"> GitHub <i class="fab fa-github"></i></a> |
