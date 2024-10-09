@@ -3,7 +3,7 @@ layout: cv
 title: Zachary M C Baum
 ---
 # Dr. Zachary M C Baum, PhD
-Senior Research Scientist
+Research Team Lead
 
 **Odin Vision**
 
@@ -200,15 +200,23 @@ To present the workshop *"3D Slicer: Hands on introduction to medical image visu
 
 ### Professional Experience
 
-`Apr. 2023 - present`
-**Sr. Research Scientist** | *Odin Vision*
+`Jun. 2024 - present`
+**Research Team Lead** | *Odin Vision*
 
-Designs and develops artificial intelligence-based models and methodologies for real-time disease detection and diagnostic-support in endoscopic interventions.
+Leads 10+ researchers designing and implementing AI solutions for gastroenterology, including polyp detection and diagnosis.
+Manages research planning, development, and execution; participates in strategic planning for Odin Vision’s research program.
 
 `Jul. 2016 - present`
 **Sr. AI Scientist and Software Engineer** | *Verdure Imaging Inc.*
 
-Develops ultrasound-based diagnostic software for monitoring and assessing scoliosis. Works to implement well-designed and user-friendly software and develop documentation which is compliant with FDA and other regulatory bodies.
+Leads development of software and AI for SpineUs, the first FDA-approved ultrasound-based device for spine curvature assessment. 
+Achieved an error of less than 3mm per landmark relative to X-ray imaging, enabling chiropractors and clinicians to make highly-accurate treatment decisions without the need for radiation-based methods.
+Plays a critical role in shaping the company’s AI innovation roadmap, leading to project launches and new clinical collaborations.
+
+`Mar. 2023 - Jun 2024`
+**Sr. Research Scientist** | *Odin Vision*
+
+Designs and develops artificial intelligence-based models and methodologies for real-time disease detection and diagnostic-support in endoscopic interventions.
 
 `Sep. 2020 - Jan 2023`
 **Software Engineer** | *Veterinary Surgical Innovation Ltd.*
@@ -407,7 +415,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 ### Community Involvement
 
-`Oct. 2018 - present`
+`Oct. 2018 - Oct 2024`
 **Member, Board of Directors** | *Sail Canada / Voile Canada*
 
 Provides the governance and strategic direction for the Association. Brings an array of skills, expertise, and sailing experience to fulfill my responsibilities and duties on the board with respect to setting the vision and mission of the Association. Provides input and monitors performance the Association by overseeing core financial information and updating policies to reflect international best practices in sailing. Additionally, serves as Secretary, as Chair of the Governance Committee, and as a member of the IDE and Finance Committees.
@@ -546,7 +554,16 @@ T Ungi, H Greer, K Sunderland, V Wu, **Z Baum**, C Schlenger, M Oetgen, K Cleary
 
 ### Conference Presentations
 
+`2024`
+K Hashtrudi-Zaad, T Ungi, C Yeung, **Z Baum**, P Cernelev, A Hage, C Schlenger, G Fichtinger. "Expert-guided optimization of ultrasound segmentation models for 3D spine imaging," IEEE Canadian Conference on Electrical and Computer Engineering.
+
+Z Min, **Z Baum**, S Saeed, M Emberton, D Barratt, Z Taylor, Y Hu. “Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity,” 27th International Conference on Medical Image Computing and Computer Assisted Intervention.
+
+N Montana-Brown, S Saeed, A Abdulaal, T Dowrick, Y Kilic, S Wilkinson, J Gao, M Mashar, C He, A Stavropoulou, E Thomson, **Z Baum**, S Foti, B Davidson, Y Hu, M Clarkson. "SARAMIS: simulation assets for robotic assisted and minimally invasive surgery," Advances in Neural Information Processing Systems.
+
 `2023`
+W Yi, V Stavrinides, **Z Baum** Q Yang, D Barratt, M Clarkson, Y Hu. "Boundary-RL: reinforcement learning for weakly-supervised prostate segmentation in TRUS images," International Workshop on Machine Learning in Medical Imaging.
+
 Z Min, **Z Baum**, S Saeed, M Emberton, D Barratt, Z Taylor, Y Hu. “Non-rigid medical image registration using physics-informed neural networks,” 28th International Conference on Information Processing in Medical Imaging.
 
 `2022`
@@ -726,6 +743,6 @@ Native or Bilingually Proficient: English, French
 
 <br>
 <br>
-&copy; Zachary Baum | Updated: September 2023
+&copy; Zachary Baum | Updated: October 2024
 <br>
 <br>
